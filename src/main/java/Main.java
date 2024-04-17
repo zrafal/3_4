@@ -8,7 +8,7 @@ public class Main {
                 if (i == 1 || i == 5 || j == 1 || j == 5) {
                     System.out.print("* ");
                 } else {
-                    System.out.print("  "); // Dwa spacje dla pustego miejsca
+                    System.out.print("  "); // Dwie spacje dla pustego miejsca
                 }
             }
             // Przejście do nowej linii po zakończeniu każdego wiersza
